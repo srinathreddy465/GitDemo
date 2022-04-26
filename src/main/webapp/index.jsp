@@ -15,6 +15,7 @@
 			<option value="m">-</option>
 			<option value="mul">*</option>
 			<option value="d">/</option>
+			<option value="s">/</option>
 		</select> <br> <input type="submit" value="Go">
 	</form>
 	
