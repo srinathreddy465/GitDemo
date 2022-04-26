@@ -7,6 +7,7 @@
 <title>cal.ms.com</title>
 <body bgcolor="grey">
 <h3>This is a calculator application</h3>
+<h3>Welcome</h3>
 	<form method="get" action="./CalculateServlet">
 		Number 1 : <input type="text" name="no1"> <br> Number 2 :
 		<input type="text" name="no2"> <br> Operator : 4/12/2017
