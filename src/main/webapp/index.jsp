@@ -5,7 +5,7 @@
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>cal.ms.com</title>
-<body bgcolor="white">
+<body bgcolor="darkmamba">
 <h3>This is a calculator application</h3>
 <h3>Welcome</h3>
 	<form method="get" action="./CalculateServlet">
